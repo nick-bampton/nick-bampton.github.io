@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Nicholas Bampton"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Illinois at Urbana-Champaign"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bampton2@illinois.edu" 
 
   # Academic websites
   academia         : # URL
@@ -84,8 +84,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+#  books:
+#    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
@@ -280,7 +280,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
