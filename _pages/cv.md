@@ -6,6 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<style>
+p:has(+ ul) {
+  margin-bottom: 0;
+}
+p + ul {
+  margin-top: 0;
+}
+</style>
+
 
 {% include base_path %}
 
