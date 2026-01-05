@@ -24,9 +24,9 @@ Research Assistantship<br>
 \- University of Illinois, Urbana IL<br> 	
 \- Modeled camera motion using the Fourier transform for background reconstruction in small target detection. Specifically modeled the data as a blind demixing problem where images are convolved with a motion tensor and analyzed the region of convergence for the space of initializations.
 
-**Research Assistantship**<br>
-- September 2023 - January 2025<br>
-- University of Illinois, Urbana IL<br> 	
+*Research Assistantship*
+- September 2023 - January 2025
+- University of Illinois, Urbana IL
 - Derived convergence results for dynamic programming algorithms in small target detection. Specifically unified dynamic programming algorithms from a graph theory perspective and derived the inverse relationship between location uncertainty and existence uncertainty. 
 
 Summer Internship<br>
@@ -41,7 +41,7 @@ Summer Internship<br>
 
 Publications
 ======
-\[In Review\] N. Bampton, T. J. Ma, M. N. Do, “A Unified Theory of Dynamic Programming Algorithms in Small Target Detection,” in IEEE Transactions on Signal Processing, vol. 74.
+\[In Review\] N. Bampton, T. J. Ma, M. N. Do, “A Unified Theory of Dynamic Programming Algorithms in Small Target Detection,” in IEEE Transactions on Signal Processing, vol. 74. <br>
 [preprint](https://arxiv.org/pdf/2512.11170)
 	
 \[In Review\] N. Bampton, T. J. Ma, M. N. Do, “A Graph-Based Framework for Detecting Small Noisy Targets: Theory and Analysis,” in ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
