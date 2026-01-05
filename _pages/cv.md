@@ -20,12 +20,12 @@ Education
 Research Experience
 ======
 
-<p>rat</p>
-<ul style="list-style-type:none;">
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
+<p>This is my paragraph
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
 </ul>
+</p>
 
 Research Assistantship<br>
 \- January 2025 - Present<br>
