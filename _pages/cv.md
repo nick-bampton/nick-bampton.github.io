@@ -20,7 +20,7 @@ Education
 Research Experience
 ======
 
-rat<br>
+<p>rat</p>
 <ul style="list-style-type:none;">
   <li>First item</li>
   <li>Second item</li>
