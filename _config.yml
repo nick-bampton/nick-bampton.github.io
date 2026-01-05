@@ -27,7 +27,7 @@ author:
   name             : "Nicholas Bampton"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : #"Earth"
+  #location         : #"Earth"
   employer         : "University of Illinois"\\ "at Urbana-Champaign"
   uri              : # URL
   email            : "bampton2@illinois.edu" 
