@@ -24,10 +24,10 @@ Research Assistantship<br>
 \- University of Illinois, Urbana IL<br> 	
 \- Modeled camera motion using the Fourier transform for background reconstruction in small target detection. Specifically modeled the data as a blind demixing problem where images are convolved with a motion tensor and analyzed the region of convergence for the space of initializations.
 
-Research Assistantship<br>
-\- September 2023 - January 2025<br>
-\- University of Illinois, Urbana IL<br> 	
-\- Derived convergence results for dynamic programming algorithms in small target detection. Specifically unified dynamic programming algorithms from a graph theory perspective and derived the inverse relationship between location uncertainty and existence uncertainty. 
+**Research Assistantship**<br>
+- September 2023 - January 2025<br>
+- University of Illinois, Urbana IL<br> 	
+- Derived convergence results for dynamic programming algorithms in small target detection. Specifically unified dynamic programming algorithms from a graph theory perspective and derived the inverse relationship between location uncertainty and existence uncertainty. 
 
 Summer Internship<br>
 \- May 2023 - September 2023<br>
