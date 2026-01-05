@@ -13,23 +13,16 @@ redirect_from:
 
 Education
 ======
-&nbsp;&nbsp;&nbsp;&nbsp;\Ph.D in Electrical Engineering, Virginia Polytechnic Institute and State University, 2027 (expected)
+&nbsp;&nbsp;&nbsp;&nbsp;Ph.D in Electrical Engineering, Virginia Polytechnic Institute and State University, 2027 (expected)
 
-&nbsp;&nbsp;&nbsp;&nbsp;\B.S. in Mathematics, Virginia Polytechnic Institute and State University, 2022
+&nbsp;&nbsp;&nbsp;&nbsp;B.S. in Mathematics, Virginia Polytechnic Institute and State University, 2022
 
-&nbsp;&nbsp;&nbsp;&nbsp;\B.S. in Electrical Engineering, Virginia Polytechnic Institute and State University, 2022
+&nbsp;&nbsp;&nbsp;&nbsp;B.S. in Electrical Engineering, Virginia Polytechnic Institute and State University, 2022
 
 Research Experience
 ======
 
-<p>This is my paragraph
-<ul>
-  <li>Item 1</li>
-  <li>Item 2</li>
-</ul>
-</p>
-
-*Research Assistantship*, January 2025 - Present<br>
+**Research Assistantship**, January 2025 - Present<br>
 &nbsp;&nbsp;&nbsp;&nbsp;\- University of Illinois, Urbana IL<br> 	
 &nbsp;&nbsp;&nbsp;&nbsp;\- Modeled camera motion using the Fourier transform for background reconstruction in small target detection. Specifically modeled the data as a blind demixing problem where images are convolved with a motion tensor and analyzed the region of convergence for the space of initializations.
 
