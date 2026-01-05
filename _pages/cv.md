@@ -39,34 +39,33 @@ Summer Internship<br>
 \- Naval Surface Warfare Center Dahlgren Division, Dahlgren VA<br> 	
 \- Applied spectral graph theory techniques for low angle radar clutter comparisons.  Reduced the dimensionality of video data through graph encoding and compared using graph metrics, primarily the Wasserstein metric and various spectral methods from the Eigendecomposition of the graph laplacian. 
 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+\[In Review\] N. Bampton, T. J. Ma, M. N. Do, “A Unified Theory of Dynamic Programming Algorithms in Small Target Detection,” in IEEE Transactions on Signal Processing, vol. 74.
+[preprint](https://arxiv.org/pdf/2512.11170)
+	
+\[In Review\] N. Bampton, T. J. Ma, M. N. Do, “A Graph-Based Framework for Detecting Small Noisy Targets: Theory and Analysis,” in ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
+
+A. Chakraborty, D. Herrera, P. Fallen, D. Hall, N. Bampton, T. Olivero, M. Orlowski, “Conductive organic electrodes for flexible electronic devices,” Scientific reports, 13(1), 4125.
+
+Teaching Experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+*Teaching Assistantship*,	January 2025 - May 2025<br>
+- University of Illinois, Urbana IL 	
+- ECE513 - Vector Space Signal Processing
+- Created course content, graded assessments
+
+*Teaching Assistantship*,	September 2022 - May 2023<br>
+- University of Illinois, Urbana IL 	
+- ECE374 - Introduction to Algorithms and Models of Computation
+- Conducted recitation sections, created course content, graded assessments 
+
+Honors and Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Mavis Fellowship,	September 2025 - May 2026
+- Engineering faculty development fellowship
+
+Warfield Memorial Scholarship, September 2020 - May 2021
+- Electrical engineering academic merit scholarship
+
+
