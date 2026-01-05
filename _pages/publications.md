@@ -11,8 +11,8 @@ redirect_from:
 
 Journal
 ======
-\[In Review\] A Unified Theory of Dynamic Programming Algorithms in Small Target Detection\\
-N. Bampton, T. J. Ma, M. N. Do\\
+\[In Review\] A Unified Theory of Dynamic Programming Algorithms in Small Target Detection<br>
+N. Bampton, T. J. Ma, M. N. Do<br>
 [preprint](https://arxiv.org/pdf/2512.11170)
 
 
