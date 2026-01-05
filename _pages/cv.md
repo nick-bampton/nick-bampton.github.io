@@ -28,8 +28,8 @@ Research Experience
 </p>
 
 *Research Assistantship*, January 2025 - Present<br>
-    \-   University of Illinois, Urbana IL<br> 	
-    \-   Modeled camera motion using the Fourier transform for background reconstruction in small target detection. Specifically modeled the data as a blind demixing problem where images are convolved with a motion tensor and analyzed the region of convergence for the space of initializations.
+&nbsp;&nbsp;\- University of Illinois, Urbana IL<br> 	
+&nbsp;&nbsp;&nbsp;&nbsp;\- Modeled camera motion using the Fourier transform for background reconstruction in small target detection. Specifically modeled the data as a blind demixing problem where images are convolved with a motion tensor and analyzed the region of convergence for the space of initializations.
 
 <p>*Research Assistantship*</p>
 - September 2023 - January 2025
