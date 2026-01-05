@@ -19,6 +19,13 @@ Education
 
 Research Experience
 ======
+
+<ul style="list-style-type:none;">
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ul>
+
 Research Assistantship<br>
 \- January 2025 - Present<br>
 \- University of Illinois, Urbana IL<br> 	
@@ -29,7 +36,7 @@ Research Assistantship<br>
 - University of Illinois, Urbana IL
 - Derived convergence results for dynamic programming algorithms in small target detection. Specifically unified dynamic programming algorithms from a graph theory perspective and derived the inverse relationship between location uncertainty and existence uncertainty. 
 
-# Summer Internship
+## Summer Internship
 - May 2023 - September 2023
 - Sandia National Laboratory, Albuquerque NM
 - Modeled video backgrounds using topological properties for small infrared target detection. Specifically used the persistent homology of a surface, computed using the contour tree, to construct a background model and spatially filter out foreground elements. Mathematically demonstrated the class of domain operations for which the persistent homology is invariant.  
