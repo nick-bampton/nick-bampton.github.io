@@ -13,9 +13,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering, Virginia Polytechnic Institute and State University, 2027 (expected)
-* B.S. in Mathematics, Virginia Polytechnic Institute and State University, 2022
-* B.S. in Electrical Engineering, Virginia Polytechnic Institute and State University, 2022
+&nbsp;&nbsp;&nbsp;&nbsp;\Ph.D in Electrical Engineering, Virginia Polytechnic Institute and State University, 2027 (expected)
+
+&nbsp;&nbsp;&nbsp;&nbsp;\B.S. in Mathematics, Virginia Polytechnic Institute and State University, 2022
+
+&nbsp;&nbsp;&nbsp;&nbsp;\B.S. in Electrical Engineering, Virginia Polytechnic Institute and State University, 2022
 
 Research Experience
 ======
@@ -28,23 +30,20 @@ Research Experience
 </p>
 
 *Research Assistantship*, January 2025 - Present<br>
-&nbsp;&nbsp;\- University of Illinois, Urbana IL<br> 	
+&nbsp;&nbsp;&nbsp;&nbsp;\- University of Illinois, Urbana IL<br> 	
 &nbsp;&nbsp;&nbsp;&nbsp;\- Modeled camera motion using the Fourier transform for background reconstruction in small target detection. Specifically modeled the data as a blind demixing problem where images are convolved with a motion tensor and analyzed the region of convergence for the space of initializations.
 
-<p>*Research Assistantship*</p>
-- September 2023 - January 2025
-- University of Illinois, Urbana IL
-- Derived convergence results for dynamic programming algorithms in small target detection. Specifically unified dynamic programming algorithms from a graph theory perspective and derived the inverse relationship between location uncertainty and existence uncertainty. 
+*Research Assistantship*, September 2023 - January 2025<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\- University of Illinois, Urbana IL<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\- Derived convergence results for dynamic programming algorithms in small target detection. Specifically unified dynamic programming algorithms from a graph theory perspective and derived the inverse relationship between location uncertainty and existence uncertainty. 
 
-## Summer Internship
-- May 2023 - September 2023
-- Sandia National Laboratory, Albuquerque NM
-- Modeled video backgrounds using topological properties for small infrared target detection. Specifically used the persistent homology of a surface, computed using the contour tree, to construct a background model and spatially filter out foreground elements. Mathematically demonstrated the class of domain operations for which the persistent homology is invariant.  
+*Summer Internship*, May 2023 - September 2023<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\- Sandia National Laboratory, Albuquerque NM<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\- Modeled video backgrounds using topological properties for small infrared target detection. Specifically used the persistent homology of a surface, computed using the contour tree, to construct a background model and spatially filter out foreground elements. Mathematically demonstrated the class of domain operations for which the persistent homology is invariant.  
 
-Summer Internship<br>
-\- May 2019 - September 2021<br>
-\- Naval Surface Warfare Center Dahlgren Division, Dahlgren VA<br> 	
-\- Applied spectral graph theory techniques for low angle radar clutter comparisons.  Reduced the dimensionality of video data through graph encoding and compared using graph metrics, primarily the Wasserstein metric and various spectral methods from the Eigendecomposition of the graph laplacian. 
+**Summer Internship**, May 2019 - September 2021<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\- Naval Surface Warfare Center Dahlgren Division, Dahlgren VA<br> 	
+&nbsp;&nbsp;&nbsp;&nbsp;\- Applied spectral graph theory techniques for low angle radar clutter comparisons.  Reduced the dimensionality of video data through graph encoding and compared using graph metrics, primarily the Wasserstein metric and various spectral methods from the Eigendecomposition of the graph laplacian. 
 
 Publications
 ======
@@ -57,22 +56,22 @@ A. Chakraborty, D. Herrera, P. Fallen, D. Hall, N. Bampton, T. Olivero, M. Orlow
 
 Teaching Experience
 ======
-*Teaching Assistantship*,	January 2025 - May 2025
-- University of Illinois, Urbana IL 	
-- ECE513 - Vector Space Signal Processing
-- Created course content, graded assessments
+*Teaching Assistantship*,	January 2025 - May 2025<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\- University of Illinois, Urbana IL <br>	
+&nbsp;&nbsp;&nbsp;&nbsp;\- ECE513 - Vector Space Signal Processing<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\- Created course content, graded assessments
 
-*Teaching Assistantship*,	September 2022 - May 2023
-- University of Illinois, Urbana IL 	
-- ECE374 - Introduction to Algorithms and Models of Computation
-- Conducted recitation sections, created course content, graded assessments 
+*Teaching Assistantship*,	September 2022 - May 2023<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\- University of Illinois, Urbana IL <br>	
+&nbsp;&nbsp;&nbsp;&nbsp;\- ECE374 - Introduction to Algorithms and Models of Computation<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\- Conducted recitation sections, created course content, graded assessments 
 
 Honors and Awards
 ======
-Mavis Fellowship,	September 2025 - May 2026
-- Engineering faculty development fellowship
+*Mavis Fellowship*,	September 2025 - May 2026<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\- Engineering faculty development fellowship
 
-Warfield Memorial Scholarship, September 2020 - May 2021
-- Electrical engineering academic merit scholarship
+*Warfield Memorial Scholarship*, September 2020 - May 2021<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\- Electrical engineering academic merit scholarship
 
 
