@@ -11,6 +11,8 @@ redirect_from:
 
 {% include base_path %}
 
+[pdf](/files/CV.pdf)
+
 Education
 ======
 &nbsp;&nbsp;&nbsp;&nbsp;Ph.D in Electrical Engineering, Virginia Polytechnic Institute and State University, 2027 (expected)
