@@ -11,26 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical Engineering, Virginia Polytechnic Institute and State University, 2027 (expected)
+* B.S. in Mathematics, Virginia Polytechnic Institute and State University, 2022
+* B.S. in Electrical Engineering, Virginia Polytechnic Institute and State University, 2022
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Research Assistantship, January 2025 - Present<br>
+* University of Illinois, Urbana IL<br> 	
+* Modeled camera motion using the Fourier transform for background reconstruction in small target detection. Specifically modeled the data as a blind demixing problem where images are convolved with a motion tensor and analyzed the region of convergence for the space of initializations.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Assistantship, September 2023 - January 2025<br>
+University of Illinois, Urbana IL<br> 	
+Derived convergence results for dynamic programming algorithms in small target detection. Specifically unified dynamic programming algorithms from a graph theory perspective and derived the inverse relationship between location uncertainty and existence uncertainty. 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Summer Internship, May 2023 - September 2023<br>
+Sandia National Laboratory, Albuquerque NM<br> 	
+Modeled video backgrounds using topological properties for small infrared target detection. Specifically used the persistent homology of a surface, computed using the contour tree, to construct a background model and spatially filter out foreground elements. Mathematically demonstrated the class of domain operations for which the persistent homology is invariant.  
+
+Summer Internship, May 2019 - September 2021<br>
+Naval Surface Warfare Center Dahlgren Division, Dahlgren VA<br> 	
+Applied spectral graph theory techniques for low angle radar clutter comparisons.  Reduced the dimensionality of video data through graph encoding and compared using graph metrics, primarily the Wasserstein metric and various spectral methods from the Eigendecomposition of the graph laplacian. 
+
   
 Skills
 ======
