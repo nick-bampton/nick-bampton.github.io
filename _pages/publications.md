@@ -18,5 +18,5 @@ N. Bampton, T. J. Ma, M. N. Do
 
 Conference
 ======
-\[In Review]\ A Graph-Based Framework for Detecting Small Noisy Targets: Theory and Analysis
+\[In Review\] A Graph-Based Framework for Detecting Small Noisy Targets: Theory and Analysis
 N. Bampton, T. J. Ma, M. N. Do
