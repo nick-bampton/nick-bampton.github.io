@@ -22,7 +22,7 @@ Education
 Research Experience
 ======
 
-**Research Assistantship**, January 2025 - Present<br>
+*Research Assistantship*, January 2025 - Present<br>
 &nbsp;&nbsp;&nbsp;&nbsp;\- University of Illinois, Urbana IL<br> 	
 &nbsp;&nbsp;&nbsp;&nbsp;\- Modeled camera motion using the Fourier transform for background reconstruction in small target detection. Specifically modeled the data as a blind demixing problem where images are convolved with a motion tensor and analyzed the region of convergence for the space of initializations.
 
@@ -34,7 +34,7 @@ Research Experience
 &nbsp;&nbsp;&nbsp;&nbsp;\- Sandia National Laboratory, Albuquerque NM<br>
 &nbsp;&nbsp;&nbsp;&nbsp;\- Modeled video backgrounds using topological properties for small infrared target detection. Specifically used the persistent homology of a surface, computed using the contour tree, to construct a background model and spatially filter out foreground elements. Mathematically demonstrated the class of domain operations for which the persistent homology is invariant.  
 
-**Summer Internship**, May 2019 - September 2021<br>
+*Summer Internship*, May 2019 - September 2021<br>
 &nbsp;&nbsp;&nbsp;&nbsp;\- Naval Surface Warfare Center Dahlgren Division, Dahlgren VA<br> 	
 &nbsp;&nbsp;&nbsp;&nbsp;\- Applied spectral graph theory techniques for low angle radar clutter comparisons.  Reduced the dimensionality of video data through graph encoding and compared using graph metrics, primarily the Wasserstein metric and various spectral methods from the Eigendecomposition of the graph laplacian. 
 
