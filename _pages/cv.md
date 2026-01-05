@@ -50,12 +50,12 @@ A. Chakraborty, D. Herrera, P. Fallen, D. Hall, N. Bampton, T. Olivero, M. Orlow
 
 Teaching Experience
 ======
-*Teaching Assistantship*,	January 2025 - May 2025<br>
+*Teaching Assistantship*,	January 2025 - May 2025
 - University of Illinois, Urbana IL 	
 - ECE513 - Vector Space Signal Processing
 - Created course content, graded assessments
 
-*Teaching Assistantship*,	September 2022 - May 2023<br>
+*Teaching Assistantship*,	September 2022 - May 2023
 - University of Illinois, Urbana IL 	
 - ECE374 - Introduction to Algorithms and Models of Computation
 - Conducted recitation sections, created course content, graded assessments 
